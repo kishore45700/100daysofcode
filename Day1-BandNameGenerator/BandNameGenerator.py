@@ -5,6 +5,3 @@ city=input("Which city did you grew up in?\n")
 pet_name=input("what is your pet's name?\n")
 #create a name for their band
 print("Your band name should be "+ city + " " + pet_name)
-
-
-
