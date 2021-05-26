@@ -1,4 +1,4 @@
-#DAY2
+# DAY2
 <br>
 * Created a program to calculate the sum of two digits.
 * created a program to calculate the body mass index.
